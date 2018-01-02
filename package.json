@@ -1,0 +1,24 @@
+{
+  "name": "meeting-bot",
+  "version": "1.0.0",
+  "description": "A bot that helps schedule meetings and save it in g calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geraldoaperez/meeting-bot.git"
+  },
+  "keywords": [
+    "bots",
+    "nodejs",
+    "google-calendar"
+  ],
+  "author": "Geraldo A. Pérez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geraldoaperez/meeting-bot/issues"
+  },
+  "homepage": "https://github.com/geraldoaperez/meeting-bot#readme"
+}
